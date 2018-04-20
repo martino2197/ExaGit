@@ -1,0 +1,6 @@
+/*polimorfismo
+ una interfaz
+ */
+ public interface Encendible {
+ 		
+ }

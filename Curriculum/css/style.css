@@ -1,0 +1,88 @@
+body
+{
+	padding: 0px;
+	margin: 0px;
+	height: 100%;
+	background-color: #FFF;
+}
+
+h1, h2
+{
+	font-family: 'Dubiel', cursive;
+	color: white;
+	text-align: center;
+	padding-top:  20px;
+}
+
+header
+{
+	background-color: #000000FF;
+	/*rgba donde a es opacidad*/
+	margin: 0px;
+	padding: 20px;
+}
+
+nav ul li, footer ul li
+{
+	display: inline;
+}
+
+ul
+{
+	list-style: none;
+}
+
+nav a, footer a
+{
+	display: inline-block;
+	width: 200px;
+	height: 20px;
+	text-decoration: none;
+	background-color: #000000FF;
+	color: #fff;
+}
+
+img
+{
+	width: 15%;
+}
+
+.informacion.personal
+{
+	text-align: center;
+	width: 45%;
+}
+
+li:hover a
+{
+	background-color: #000000FF;
+}
+
+.activa
+{
+	background-color: #000000FF;
+}
+
+footer
+{
+	font-family: 'Dubiel', cursive;
+	height: 120px;
+	background: #000000FF;
+}
+
+section.premios
+{
+	width: 60%;
+}
+
+table, th, td
+{
+	border: 2px solid #FFFFFFFF;
+	border-collapse: collapse;
+}
+
+section.bio
+{
+	width: 50%;
+	text-align: justify;
+}

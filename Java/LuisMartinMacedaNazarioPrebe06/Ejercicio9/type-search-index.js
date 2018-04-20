@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"Consola"},{"p":"<Unnamed>","l":"PC"},{"p":"<Unnamed>","l":"PS4"},{"p":"<Unnamed>","l":"XBOXONE"}]

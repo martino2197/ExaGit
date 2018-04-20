@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"Ejercicio7","l":"IMAGEN"},{"p":"Ejercicio7","l":"MP3"},{"p":"Ejercicio7","l":"Reproduccion"},{"p":"Ejercicio7","l":"VIDEO"}]
